@@ -1,0 +1,1 @@
+C:\Data\GitHub\Non-uniform BSpline Surface Fitting\Non-uniform_BSpline_Surface_Fitting\Non-uniform_BSpline_Surface_Fitting\bin\Debug\Non-uniform_BSpline_Surface_Fitting.exe.config
