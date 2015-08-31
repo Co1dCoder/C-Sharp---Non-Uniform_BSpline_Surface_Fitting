@@ -1,1 +1,26 @@
 C:\Data\GitHub\Non-uniform BSpline Surface Fitting\Non-uniform_BSpline_Surface_Fitting\Non-uniform_BSpline_Surface_Fitting\bin\Debug\Non-uniform_BSpline_Surface_Fitting.exe.config
+C:\Data\GitHub\Non-Uniform_BSpline_Surface_Fitting\Non-uniform_BSpline_Surface_Fitting\Non-uniform_BSpline_Surface_Fitting\bin\Debug\Non-uniform_BSpline_Surface_Fitting.exe.config
+C:\Data\GitHub\Non-Uniform_BSpline_Surface_Fitting\Non-uniform_BSpline_Surface_Fitting\Non-uniform_BSpline_Surface_Fitting\obj\Debug\Non-uniform_BSpline_Surface_Fitting.csprojResolveAssemblyReference.cache
+C:\Data\GitHub\Non-Uniform_BSpline_Surface_Fitting\Non-uniform_BSpline_Surface_Fitting\Non-uniform_BSpline_Surface_Fitting\obj\Debug\MainWindow.baml
+C:\Data\GitHub\Non-Uniform_BSpline_Surface_Fitting\Non-uniform_BSpline_Surface_Fitting\Non-uniform_BSpline_Surface_Fitting\obj\Debug\MainWindow.g.cs
+C:\Data\GitHub\Non-Uniform_BSpline_Surface_Fitting\Non-uniform_BSpline_Surface_Fitting\Non-uniform_BSpline_Surface_Fitting\obj\Debug\App.g.cs
+C:\Data\GitHub\Non-Uniform_BSpline_Surface_Fitting\Non-uniform_BSpline_Surface_Fitting\Non-uniform_BSpline_Surface_Fitting\obj\Debug\Non-uniform_BSpline_Surface_Fitting_MarkupCompile.cache
+C:\Data\GitHub\Non-Uniform_BSpline_Surface_Fitting\Non-uniform_BSpline_Surface_Fitting\Non-uniform_BSpline_Surface_Fitting\obj\Debug\Non-uniform_BSpline_Surface_Fitting.g.resources
+C:\Data\GitHub\Non-Uniform_BSpline_Surface_Fitting\Non-uniform_BSpline_Surface_Fitting\Non-uniform_BSpline_Surface_Fitting\obj\Debug\Non_uniform_BSpline_Surface_Fitting.Properties.Resources.resources
+C:\Data\GitHub\Non-Uniform_BSpline_Surface_Fitting\Non-uniform_BSpline_Surface_Fitting\Non-uniform_BSpline_Surface_Fitting\obj\Debug\Non-uniform_BSpline_Surface_Fitting.csproj.GenerateResource.Cache
+C:\Data\GitHub\Non-Uniform_BSpline_Surface_Fitting\Non-uniform_BSpline_Surface_Fitting\Non-uniform_BSpline_Surface_Fitting\bin\Debug\Non-uniform_BSpline_Surface_Fitting.exe
+C:\Data\GitHub\Non-Uniform_BSpline_Surface_Fitting\Non-uniform_BSpline_Surface_Fitting\Non-uniform_BSpline_Surface_Fitting\bin\Debug\Non-uniform_BSpline_Surface_Fitting.pdb
+C:\Data\GitHub\Non-Uniform_BSpline_Surface_Fitting\Non-uniform_BSpline_Surface_Fitting\Non-uniform_BSpline_Surface_Fitting\bin\Debug\csgl.dll
+C:\Data\GitHub\Non-Uniform_BSpline_Surface_Fitting\Non-uniform_BSpline_Surface_Fitting\Non-uniform_BSpline_Surface_Fitting\bin\Debug\Newtonsoft.Json.dll
+C:\Data\GitHub\Non-Uniform_BSpline_Surface_Fitting\Non-uniform_BSpline_Surface_Fitting\Non-uniform_BSpline_Surface_Fitting\bin\Debug\PTL.exe
+C:\Data\GitHub\Non-Uniform_BSpline_Surface_Fitting\Non-uniform_BSpline_Surface_Fitting\Non-uniform_BSpline_Surface_Fitting\bin\Debug\Tao.OpenGl.dll
+C:\Data\GitHub\Non-Uniform_BSpline_Surface_Fitting\Non-uniform_BSpline_Surface_Fitting\Non-uniform_BSpline_Surface_Fitting\bin\Debug\Tao.Platform.Windows.dll
+C:\Data\GitHub\Non-Uniform_BSpline_Surface_Fitting\Non-uniform_BSpline_Surface_Fitting\Non-uniform_BSpline_Surface_Fitting\bin\Debug\netDxf.dll
+C:\Data\GitHub\Non-Uniform_BSpline_Surface_Fitting\Non-uniform_BSpline_Surface_Fitting\Non-uniform_BSpline_Surface_Fitting\bin\Debug\MathNet.Numerics.dll
+C:\Data\GitHub\Non-Uniform_BSpline_Surface_Fitting\Non-uniform_BSpline_Surface_Fitting\Non-uniform_BSpline_Surface_Fitting\bin\Debug\PTL.pdb
+C:\Data\GitHub\Non-Uniform_BSpline_Surface_Fitting\Non-uniform_BSpline_Surface_Fitting\Non-uniform_BSpline_Surface_Fitting\bin\Debug\Newtonsoft.Json.pdb
+C:\Data\GitHub\Non-Uniform_BSpline_Surface_Fitting\Non-uniform_BSpline_Surface_Fitting\Non-uniform_BSpline_Surface_Fitting\bin\Debug\Newtonsoft.Json.xml
+C:\Data\GitHub\Non-Uniform_BSpline_Surface_Fitting\Non-uniform_BSpline_Surface_Fitting\Non-uniform_BSpline_Surface_Fitting\bin\Debug\netDxf.pdb
+C:\Data\GitHub\Non-Uniform_BSpline_Surface_Fitting\Non-uniform_BSpline_Surface_Fitting\Non-uniform_BSpline_Surface_Fitting\bin\Debug\netDxf.xml
+C:\Data\GitHub\Non-Uniform_BSpline_Surface_Fitting\Non-uniform_BSpline_Surface_Fitting\Non-uniform_BSpline_Surface_Fitting\obj\Debug\Non-uniform_BSpline_Surface_Fitting.exe
+C:\Data\GitHub\Non-Uniform_BSpline_Surface_Fitting\Non-uniform_BSpline_Surface_Fitting\Non-uniform_BSpline_Surface_Fitting\obj\Debug\Non-uniform_BSpline_Surface_Fitting.pdb
